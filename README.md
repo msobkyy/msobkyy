@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsobky</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img  align="right" width="350px" style="border-radius: 50px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611997f1c1825f1c6d6973764856303f2dc5c2ca31f&rid=giphy.gif&ct=g" alt="msobkyy" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msobkyy&label=Profile%20views&color=0e75b6&style=flat" alt="msobkyy" /> </p>
 
