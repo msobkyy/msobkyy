@@ -11,10 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vsobky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vsobky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/msobkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msobkyy" height="30" width="40" /></a>
 <a href="https://fb.com/msobkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msobkyy" height="30" width="40" /></a>
-<a href="https://instagram.com/msobkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msobkyy" height="30" width="40" /></a>
 <a href="https://www.behance.net/msobkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="msobkyy" height="30" width="40" /></a>
 <a href="https://medium.com/msobkyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="msobkyy" height="30" width="40" /></a>
 </p>
